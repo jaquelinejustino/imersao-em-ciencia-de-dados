@@ -1,14 +1,31 @@
-<h2 align="center">Imersão em Ciência de Dados </h2>
+## Imersão em Ciência de Dados
 Curso introdutório para Capacitação em Ciência de Dados, programa promovido pela VAI Academy em parceria com a Americanas S.A.
 
-<dl>
-<dt>Conteúdo</dt>
+#### Conteúdo:
 
-<dd> Introdução à Python e Pandas (Parte 1)</dd>
-<dd> Python/Jupyter Básico (Partes 1 e 2)</dd>
-<dd> Python Datatypes (Parte 3)</dd>
-<dd> Funções (Parte 4)</dd>
-<dd> Numpy (Parte 5)</dd>
-<dd> Pandas (Partes 6 e 7)</dd>
-<dd> Estatística (Partes 1, 2 e 3)</dd>
-</dl>
+1. Introdução à Python e Pandas (Parte 1)
+2. Python/Jupyter Básico (Partes 1 e 2)
+3. Python Datatypes (Parte 3)
+4. Funções (Parte 4)
+5. Numpy (Parte 5)
+6. Pandas (Partes 6 e 7)
+7. Estatística (Partes 1, 2 e 3)
+
+#### Informações Técnicas
+Foram utilizadas as seguintes bibliotecas:
+```
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+```
+
+#### Ferramentas e tecnologias:
+<br>
+<div align="center">
+  <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
+  <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+</div>
+
+
+#### Referências
+- [VAI Academy](https://www.vai.academy/)
